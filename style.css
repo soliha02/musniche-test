@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+ul {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    text-align: left;
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+}
+
+.main-header {
+    display: flex;
+    padding: 60px;
+}
+
+button {
+    width: 145px;
+    height: 40px;
+    left: 1003px;
+    border-radius: 30px;
+    background: aqua;
+    border: none;
+    margin-left: 700px;
+    color: white;
+}
+
+.h1 {
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+.p{
+    font-family: Poppins;
+font-size: 22px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0.15000000596046448px;
+text-align: left;
+
+}
+.main-left{
+    margin-left: 60px;
+    padding-top: 50px;
+}
+.main-right{
+    margin-left: 200px;
+}
+main{
+    display: flex;
+}
+
+
